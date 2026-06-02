@@ -151,6 +151,7 @@ class KthSmallestElementInSortedMatrix extends SplMinHeap
      * SC: O(1)
      * TC: 1ms Beats 83.33%
      * SC: Memory 23.45 MB Beats 83.33%
+     * Editorial
      * @param array $matrix
      * @param int $k
      */
@@ -223,6 +224,7 @@ class KthSmallestElementInSortedMatrix extends SplMinHeap
      * SC: O(1)
      * RT: 28 ms Beats 66.67%
      * SC: 23.06 MB Beats 83.33%
+     * Editorial
      * @param array $matrix
      * @param int $k
      * @return mixed
