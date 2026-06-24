@@ -4,7 +4,7 @@ class Atoi {
 
     /**
      * TC: O(n)
-     * SC: O(1)
+     * SC: O(n)
      * @param String $s
      * @return Integer
      */
